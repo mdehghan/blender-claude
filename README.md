@@ -1,5 +1,5 @@
 # Blender meets Claude
-Connecting Claude to create 3D models Blender
+Connecting Claude to create 3D models with Blender
 
 Follow these steps to configure Claude Desktop to run scripts in Blender and generate 3D models:
 - Download and install latest **Python** version from https://www.python.org/downloads/
