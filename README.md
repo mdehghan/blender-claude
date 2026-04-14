@@ -9,7 +9,7 @@ Follow these steps to configure Claude Desktop to run scripts in Blender and gen
   - `pip3 install mcp`
   - `pip3 install httpx`
 - Download `blender_mcp.py` and `blender_bridge.py` from this repository.
-- Open Blender, and go "Scripting -> Open (blender_bridge.py) -> Run Script".
+- Open Blender, and go "Scripting -> Open (`blender_bridge.py`) -> Run Script".
 - Open Claude Desktop, go to "Settings -> Developer -> Edit Config".
   - Open file `claude_desktop_config.json` and add the content of `claude_desktop_config.json` from this repository into it.
   - Make sure to fix the path to `blender_mcp.py` in your `claude_desktop_config.json`.
