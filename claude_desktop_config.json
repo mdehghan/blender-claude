@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "blender-python-runner": {
+      "command": "python3",
+      "args": [
+        "/PATH_TO/blender_mcp.py"
+      ]
+    }
+  }
+}
